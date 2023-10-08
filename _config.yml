@@ -2,7 +2,7 @@ title: SEMOC
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "https://ucsal.github.io/semoc/" # the subpath of your site, e.g. /blog
-url: "https://ucsal.github.io" # the base hostname & protocol for your site
+url: "https://ucsal.github.io/semoc/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
