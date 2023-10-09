@@ -251,7 +251,7 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.data.template.color.primary }};
     /*height: auto;*/
 }
-}
+
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
@@ -337,7 +337,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    height: 100vh;
+    /* height: 100vh;
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -347,7 +347,7 @@ header {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover; */
 }
 
 header .intro-text {
