@@ -335,9 +335,9 @@ fieldset[disabled] .btn-xl.active {
         font-size: 1.5em;
     }
 }
-
+/* 
 header {
-    /* height: 100vh;
+     height: 100vh;
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -347,8 +347,8 @@ header {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover; */
-}
+    -o-background-size: cover; 
+} */
 
 header .intro-text {
     padding-top: 25vh;
