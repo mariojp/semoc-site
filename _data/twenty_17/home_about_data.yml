@@ -7,13 +7,13 @@
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Check out the agenda
+  info: Programação do Evento
   link: /agenda
 
 - inverted: 
   img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
+  name: Organização
+  info: Comissão Organizadora e Equipe
   link: /team
 
 - inverted: timeline-inverted
@@ -22,14 +22,14 @@
   info: Learn more about our location
   link: /venue
 
-- inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
+# - inverted: 
+#   img: icon-faq.jpeg
+#   name: FAQs
+#   info: Have a Question? Many answers can be found right here in our FAQs
+#   link: /faqs
 
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
+# - inverted: timeline-inverted
+#   img: booklet-icon.png
+#   name: Event Booklet
+#   info: View or Download our event booklet
+#   link: /booklet
