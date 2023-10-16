@@ -33,6 +33,21 @@
             {% endfor %}
             </div>
 
+                         <div class="row">
+            <h2>Comissão Organizadora</h2>
+            {% for team in site.data.twenty_17.teams2 %}
+                <h4>{{ team.title }} ({{ team.subtitle }})</h4>
+            {% endfor %}
+            </div>
+
+                         <div class="row">
+            <h2>Comissão Científica</h2>
+            {% for team in site.data.twenty_17.teams3 %}
+                <h4>{{ team.title }} ({{ team.subtitle }})</h4>
+            {% endfor %}
+            </div>
+
+
             
         </div>
     </section>
