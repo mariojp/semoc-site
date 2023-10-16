@@ -16,11 +16,11 @@
   info: Comissão Organizadora e Equipe
   link: /team
 
-- inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
-  link: /venue
+# - inverted: timeline-inverted
+#   img: icon-venue.jpeg
+#   name: Venue
+#   info: Learn more about our location
+#   link: /venue
 
 # - inverted: 
 #   img: icon-faq.jpeg
