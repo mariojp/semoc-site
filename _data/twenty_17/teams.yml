@@ -1,26 +1,72 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
+- title: Profa. Dra. Silvana Sá de Carvalho
+  name: Profa. Dra. Silvana Sá de Carvalho
+  subtitle: PPGTAS
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: TBD
+  description: TBD
 
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: Profa. Dra. Aparecida Netto Teixeira
+  name: Profa. Dra. Aparecida Netto Teixeira
+  subtitle: PPGPSC
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: TBD
+  description: TBD
+
+- title: Prof. Dr. José Luis Sepúlveda Ferriz
+  name: Prof. Dr. José Luis Sepúlveda Ferriz
+  subtitle: PPGFSC
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: TBD
+  description: TBD
+
+- title: Profa. Dra. Kátia Oliver
+  name: Profa. Dra. Kátia Oliver
+  subtitle: PPGPSC
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: TBD
+  description: TBD
+
+- title: Profa. Dra. Sumaia Midlej
+  name: Profa. Dra. Sumaia Midlej
+  subtitle: PPGFSC
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: TBD
+  description: TBD
+
+- title: Prof. Dr. Tagore Trajano
+  name: Prof. Dr. Tagore Trajano
+  subtitle: PPGD
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: TBD
+  description: TBD
+
+- title: Dra. Sinara Dantas Neves
+  name: Dra. Sinara Dantas Neves
+  subtitle: PPGFSC
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: TBD
+  description: TBD
+
+- title: Me. Matheus Martins de Oliveira
+  name: Me. Matheus Martins de Oliveira
+  subtitle: PPGPSC
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: TBD
+  description: TBD
