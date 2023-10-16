@@ -6,8 +6,8 @@
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Agenda
-  info: Programação do Evento
+  name: Programação
+  info: Programação do Evento Minicursos e Mesas Redondas
   link: /agenda
 
 - inverted: 
