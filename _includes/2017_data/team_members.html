@@ -25,5 +25,14 @@
                 </div>
             {% endfor %}
             </div>
+
+             <div class="row">
+            <h2>Comissão Executiva</h2>
+            {% for team in site.data.twenty_17.teams %}
+                <h4>{{ team.title }} ({{ team.subtitle }})</h4>
+            {% endfor %}
+            </div>
+
+            
         </div>
     </section>
