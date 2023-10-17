@@ -1,5 +1,5 @@
 # SEMOC TEMA
-
+  
 ## Features
 ### Index Page
 - Event's title, location, and date
