@@ -29,7 +29,9 @@ published: true
         <h2>PROGRAMAÇÃO DA SEMOC JOVEM, Salão Interativo e Bate Papo</h2>
         <h3><a href="https://drive.google.com/drive/folders/1BANAk5x-WAvN4wOLHMeREVQyq0hv_Vr3?usp=sharing" >Programação completa</a></h3>
 
-        
+
+
+         <h2>AGENDA MESAS</h2>
          <table class="agenda">
             <thead>
                 <tr>
@@ -37,17 +39,15 @@ published: true
                     <th class="row-2 agenda-activity"><center>ATIVIDADE</center></th>  
                 </tr>
             </thead>
-
             {% for agenda in site.data.twenty_17.agendacurso.data %}
                 <tr>
-                    <td>{{ agenda.start_date }}</td>
-                    <td>{{ agenda.name }} <br>
-                        <a href="{{ agenda.url}}">Inscrição</</td>
+                    <td>{{agenda.start_date}}</td>
+                    <td>{{agenda.name}}<br><a href="{{agenda.url}}">Inscrição</</td>
                 </tr> 
             {% endfor %}
         </table> 
 
-        <!-- <h2>Day 2</h2>
+        <h2>AGENDA OUTROS</h2>
         <table class="agenda">
             <thead>
                 <tr>
@@ -57,11 +57,11 @@ published: true
 
             </thead>
 
-            {% for agenda in site.data.twenty_17.agendas_2 %}
+            {% for agenda in site.data.twenty_17.agendaext.data %}
                 <tr>
-                    <td>{{ agenda.time }}</td>
-                    <td>{{ agenda.info }}</td>
+                    <td>{{agenda.start_date}}</td>
+                    <td>{{agenda.name}}<br><a href="{{agenda.url}}">Inscrição</</td>
                 </tr> 
             {% endfor %}
-        </table> -->
+        </table>
     </div>
