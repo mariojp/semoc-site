@@ -30,7 +30,7 @@ published: true
         <h3><a href="https://drive.google.com/drive/folders/1BANAk5x-WAvN4wOLHMeREVQyq0hv_Vr3?usp=sharing" >Programação completa</a></h3>
 
         
-<!--         <table class="agenda">
+         <table class="agenda">
             <thead>
                 <tr>
                     <th class="row-1 agenda-time"><center>DIA/HORA</center></th>
@@ -38,13 +38,14 @@ published: true
                 </tr>
             </thead>
 
-            {% for agenda in site.data.twenty_17.agendas_1 %}
+            {% for agenda in site.data.twenty_17.agendacurso.data %}
                 <tr>
-                    <td>{{ agenda.time }}</td>
-                    <td>{{ agenda.info }}</td>
+                    <td>{{ agenda.start_date }}</td>
+                    <td>{{ agenda.name }} <br>
+                        <a href="{{ agenda.url}}">Inscrição</</td>
                 </tr> 
             {% endfor %}
-        </table> -->
+        </table> 
 
         <!-- <h2>Day 2</h2>
         <table class="agenda">
