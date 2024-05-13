@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "nome": "Comitê Organizador SEMOC",
+    "bio": "Responsável pela organização e realização do evento SEMOC.",
+    "tipo": "organizacao",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/comite-organizador.png"
+  },
+  {
+    "id": 2,
+    "nome": "Dr. Ricardo Tavares",
+    "bio": "Professor titular da UCSAL e especialista em Inteligência Artificial.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/ricardo-tavares.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Dra. Ana Paula Silva",
+    "bio": "Pesquisadora em cibersegurança e professora convidada da UFBA.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/ana-paula-silva.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "João Carlos Mendes",
+    "bio": "Desenvolvedor web full-stack e instrutor de cursos online.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/joao-carlos-mendes.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Maria Eduarda Santos",
+    "bio": "Desenvolvedora de jogos e entusiasta de realidade virtual.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/maria-eduarda-santos.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Dr. Augusto Pereira",
+    "bio": "Especialista em Blockchain e Criptografia.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/augusto-pereira.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Dra. Mariana Almeida",
+    "bio": "Engenheira de Software e especialista em Cloud Computing.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/mariana-almeida.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Eng. Pedro Henrique",
+    "bio": "Desenvolvedor de Sistemas Embarcados e entusiasta de IoT.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/pedro-henrique.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Dra. Carolina Oliveira",
+    "bio": "Cientista de Dados e especialista em Big Data.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/carolina-oliveira.jpg"
+  },{
+    "id": 10,
+    "nome": "Dr. Fábio Souza",
+    "bio": "Pesquisador em Machine Learning e Inteligência Artificial.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/fabio-souza.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Ana Beatriz Ferreira",
+    "bio": "Designer e especialista em Design Thinking.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/ana-beatriz-ferreira.jpg"
+  },
+  {
+    "id": 12,
+    "nome": "Luiz Carlos Santos",
+    "bio": "UX/UI Designer com foco em usabilidade e acessibilidade.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/luiz-carlos-santos.jpg"
+  },
+  {
+    "id": 13,
+    "nome": "Juliana Castro",
+    "bio": "Especialista em Marketing Digital e Estratégias de Conteúdo.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/juliana-castro.jpg"
+  },
+  {
+    "id": 14,
+    "nome": "Ricardo Almeida",
+    "bio": "Empreendedor Digital e fundador da Startup XYZ.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/ricardo-almeida.jpg"
+  },
+  {
+    "id": 15,
+    "nome": "André Silva",
+    "bio": "Scrum Master e especialista em Desenvolvimento Ágil.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/andre-silva.jpg"
+  },
+  {
+    "id": 16,
+    "nome": "Fernanda Oliveira",
+    "bio": "Engenheira de Testes de Software com foco em automação.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/fernanda-oliveira.jpg"
+  },
+  {
+    "id": 17,
+    "nome": "Bruno Santos",
+    "bio": "DevOps Engineer e especialista em Integração Contínua.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/bruno-santos.jpg"
+  },
+  {
+    "id": 18,
+    "nome": "Isabela Rocha",
+    "bio": "Especialista em Segurança de Aplicações Web e testes de penetração.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/isabela-rocha.jpg"
+  },
+  {
+    "id": 19,
+    "nome": "Carlos Eduardo",
+    "bio": "Engenheiro de Dados e especialista em Big Data e Hadoop.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/carlos-eduardo.jpg"
+  },
+  {
+    "id": 20,
+    "nome": "Dra. Luciana Pereira",
+    "bio": "Pesquisadora em Computação Quântica e Física.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/luciana-pereira.jpg"
+  },
+  {
+    "id": 21,
+    "nome": "Dr. Renato Cardoso",
+    "bio": "Filósofo e especialista em Ética na Tecnologia.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/renato-cardoso.jpg"
+  },
+  {
+    "id": 22,
+    "nome": "Paula Fernandes",
+    "bio": "Especialista em Recursos Humanos e Carreira em Tecnologia.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/paula-fernandes.jpg"
+  },
+  {
+    "id": 23,
+    "nome": "Tiago Cunha",
+    "bio": "Gerente de Projetos de Tecnologia e especialista em Scrum.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/tiago-cunha.jpg"
+  },
+  {
+    "id": 24,
+    "nome": "Carolina Vieira",
+    "bio": "Designer e especialista em Criatividade e Inovação.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/carolina-vieira.jpg"
+  },
+  {
+    "id": 25,
+    "nome": "Marcos Vinicius",
+    "bio": "Sociólogo e especialista em Futuro do Trabalho e Impacto da Tecnologia.",
+    "tipo": "palestrante",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/marcos-vinicius.jpg"
+  },
+  {
+    "id": 26,
+    "nome": "Ana Claudia Silva",
+    "bio": "Desenvolvedora Web experiente e instrutora de cursos online.",
+    "tipo": "instrutor",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/ana-claudia-silva.jpg"
+  },
+  {
+    "id": 27,
+    "nome": "Rafael Monteiro",
+    "bio": "Desenvolvedor de Jogos apaixonado por Unity e Unreal Engine.",
+    "tipo": "instrutor",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/rafael-monteiro.jpg"
+  },
+  {
+    "id": 28,
+    "nome": "Dr. Renato Lima",
+    "bio": "Cientista de Dados com PhD em Estatística e expertise em Python.",
+    "tipo": "instrutor",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/renato-lima.jpg"
+  },
+  {
+    "id": 29,
+    "nome": "Juliana Costa",
+    "bio": "Desenvolvedora Android com vasta experiência em aplicativos mobile.",
+    "tipo": "instrutor",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/juliana-costa.jpg"
+  },
+  {
+    "id": 30,
+    "nome": "Eng. Tiago Santos",
+    "bio": "Especialista em Segurança da Informação com foco em Ethical Hacking.",
+    "tipo": "instrutor",
+    "foto_url": "https://ucsal.github.io/semoc/imagem/tiago-santos.jpg"
+  }
+]
