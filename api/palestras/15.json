@@ -1,0 +1,12 @@
+{
+  "id": 15,
+  "nome": "Palestra:  Desenvolvimento \u00c1gil de Software",
+  "descricao": "Metodologias \u00e1geis para o desenvolvimento de software, como Scrum e Kanban.",
+  "data": "2023-11-06",
+  "hora": "10:00",
+  "local": "Audit\u00f3rio da Biblioteca",
+  "palestrante_id": 15,
+  "tema": "Desenvolvimento \u00c1gil",
+  "nivel": "Intermedi\u00e1rio",
+  "formato": "Presencial"
+}

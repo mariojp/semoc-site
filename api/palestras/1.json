@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "nome": "Abertura do SEMOC 2023.2",
+  "descricao": "A cerim\u00f4nia de abertura oficial do evento, dando in\u00edcio \u00e0 semana de palestras, minicursos e workshops.",
+  "data": "2023-10-23",
+  "hora": "19:00",
+  "local": "Audit\u00f3rio da Biblioteca",
+  "palestrante_id": 1,
+  "tema": "Abertura",
+  "nivel": "Todos os P\u00fablicos",
+  "formato": "Presencial"
+}

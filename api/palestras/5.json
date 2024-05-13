@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "nome": "Palestra:  Desenvolvimento de Jogos Mobile",
+  "descricao": "Aprenda sobre o desenvolvimento de jogos mobile e as diferentes plataformas dispon\u00edveis.",
+  "data": "2023-10-27",
+  "hora": "09:00",
+  "local": "Laborat\u00f3rio de Inform\u00e1tica 2",
+  "palestrante_id": 5,
+  "tema": "Desenvolvimento de Jogos",
+  "nivel": "Intermedi\u00e1rio",
+  "formato": "Presencial"
+}

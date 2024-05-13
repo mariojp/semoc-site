@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "nome": "Palestra:  Internet das Coisas (IoT): Conectando o Mundo",
+  "descricao": "Explore o universo da Internet das Coisas e suas aplica\u00e7\u00f5es em casas inteligentes, cidades inteligentes e ind\u00fastria 4.0.",
+  "data": "2023-10-30",
+  "hora": "16:00",
+  "local": "Laborat\u00f3rio de Inform\u00e1tica 1",
+  "palestrante_id": 8,
+  "tema": "IoT",
+  "nivel": "Iniciante",
+  "formato": "Presencial"
+}

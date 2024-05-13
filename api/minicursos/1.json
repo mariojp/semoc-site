@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "nome": "Minicurso: Introdu\u00e7\u00e3o ao Desenvolvimento Web",
+  "descricao": "Aprenda os fundamentos do desenvolvimento web, HTML, CSS e JavaScript, e crie seu primeiro site.",
+  "data": "2023-10-24",
+  "hora": "14:00",
+  "local": "Laborat\u00f3rio de Inform\u00e1tica 1",
+  "instrutor_id": 26,
+  "tema": "Desenvolvimento Web",
+  "nivel": "Iniciante",
+  "formato": "Presencial"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "nome": "Palestra:  Machine Learning: Desvendando Padr\u00f5es nos Dados",
+  "descricao": "Introdu\u00e7\u00e3o aos conceitos de machine learning e suas aplica\u00e7\u00f5es em \u00e1reas como reconhecimento de padr\u00f5es e intelig\u00eancia artificial.",
+  "data": "2023-11-01",
+  "hora": "14:00",
+  "local": "Sala 202",
+  "palestrante_id": 10,
+  "tema": "Machine Learning",
+  "nivel": "Avan\u00e7ado",
+  "formato": "H\u00edbrido"
+}

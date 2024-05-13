@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "nome": "Palestra: Realidade Virtual: Uma Nova Fronteira",
+  "descricao": "Explore as aplica\u00e7\u00f5es da realidade virtual em diversas \u00e1reas como jogos, educa\u00e7\u00e3o e sa\u00fade.",
+  "data": "2023-10-26",
+  "hora": "16:00",
+  "local": "Laborat\u00f3rio de Inform\u00e1tica 1",
+  "palestrante_id": 4,
+  "tema": "Realidade Virtual",
+  "nivel": "Iniciante",
+  "formato": "Presencial"
+}

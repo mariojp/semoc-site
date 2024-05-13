@@ -1,0 +1,12 @@
+{
+  "id": 20,
+  "nome": "Palestra:  Computa\u00e7\u00e3o Qu\u00e2ntica: O Futuro da Computa\u00e7\u00e3o",
+  "descricao": "Introdu\u00e7\u00e3o aos princ\u00edpios da computa\u00e7\u00e3o qu\u00e2ntica e suas potenciais aplica\u00e7\u00f5es em diversas \u00e1reas.",
+  "data": "2023-11-11",
+  "hora": "16:00",
+  "local": "Laborat\u00f3rio de Inform\u00e1tica 1",
+  "palestrante_id": 20,
+  "tema": "Computa\u00e7\u00e3o Qu\u00e2ntica",
+  "nivel": "Iniciante",
+  "formato": "Presencial"
+}

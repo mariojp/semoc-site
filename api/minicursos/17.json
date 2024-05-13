@@ -1,0 +1,12 @@
+{
+  "id": 17,
+  "nome": "Minicurso:  Introdu\u00e7\u00e3o ao DevOps: Cultura e Pr\u00e1ticas",
+  "descricao": "Conhe\u00e7a os conceitos b\u00e1sicos do DevOps e como essa cultura impacta o desenvolvimento e as opera\u00e7\u00f5es de software.",
+  "data": "2023-11-09",
+  "hora": "14:00",
+  "local": "Sala 210",
+  "instrutor_id": 42,
+  "tema": "DevOps",
+  "nivel": "Iniciante",
+  "formato": "Presencial"
+}

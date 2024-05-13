@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "nome": "Minicurso:  Introdu\u00e7\u00e3o \u00e0 Computa\u00e7\u00e3o em Nuvem com AWS",
+  "descricao": "Explore os servi\u00e7os b\u00e1sicos da plataforma de computa\u00e7\u00e3o em nuvem Amazon Web Services (AWS).",
+  "data": "2023-11-01",
+  "hora": "14:00",
+  "local": "Sala 206",
+  "instrutor_id": 34,
+  "tema": "Cloud Computing",
+  "nivel": "Iniciante",
+  "formato": "Presencial"
+}

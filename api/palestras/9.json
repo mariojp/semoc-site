@@ -1,0 +1,12 @@
+{
+  "id": 9,
+  "nome": "Palestra:  Big Data: Desvendando o Poder dos Dados",
+  "descricao": "Aprenda sobre as tecnologias e t\u00e9cnicas para lidar com grandes volumes de dados e extrair insights valiosos.",
+  "data": "2023-10-31",
+  "hora": "09:00",
+  "local": "Laborat\u00f3rio de Inform\u00e1tica 2",
+  "palestrante_id": 9,
+  "tema": "Big Data",
+  "nivel": "Intermedi\u00e1rio",
+  "formato": "Presencial"
+}

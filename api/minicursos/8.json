@@ -1,0 +1,12 @@
+{
+  "id": 8,
+  "nome": "Minicurso:  Banco de Dados Relacional: MySQL",
+  "descricao": "Aprenda a criar, gerenciar e consultar banco de dados utilizando o sistema MySQL.",
+  "data": "2023-10-31",
+  "hora": "09:00",
+  "local": "Laborat\u00f3rio de Inform\u00e1tica 5",
+  "instrutor_id": 33,
+  "tema": "Banco de Dados",
+  "nivel": "Intermedi\u00e1rio",
+  "formato": "Presencial"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "nome": "Minicurso: Desenvolvimento de Aplicativos Android",
+  "descricao": "Crie seus pr\u00f3prios aplicativos Android utilizando Android Studio e a linguagem Java.",
+  "data": "2023-10-27",
+  "hora": "09:00",
+  "local": "Laborat\u00f3rio de Inform\u00e1tica 3",
+  "instrutor_id": 29,
+  "tema": "Desenvolvimento Mobile",
+  "nivel": "Intermedi\u00e1rio",
+  "formato": "Presencial"
+}

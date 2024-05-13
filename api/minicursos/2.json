@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "nome": "Minicurso: Desenvolvimento de Jogos com Unity",
+  "descricao": "Explore o motor de jogo Unity e aprenda a criar jogos 2D e 3D.",
+  "data": "2023-10-25",
+  "hora": "09:00",
+  "local": "Laborat\u00f3rio de Inform\u00e1tica 2",
+  "instrutor_id": 27,
+  "tema": "Desenvolvimento de Jogos",
+  "nivel": "Intermedi\u00e1rio",
+  "formato": "Presencial"
+}

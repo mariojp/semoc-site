@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "nome": "Minicurso:  Desenvolvimento de Jogos Mobile com Unity",
+  "descricao": "Aprenda a criar jogos para dispositivos m\u00f3veis utilizando a plataforma Unity.",
+  "data": "2023-11-02",
+  "hora": "09:00",
+  "local": "Laborat\u00f3rio de Inform\u00e1tica 6",
+  "instrutor_id": 35,
+  "tema": "Desenvolvimento de Jogos",
+  "nivel": "Intermedi\u00e1rio",
+  "formato": "Presencial"
+}

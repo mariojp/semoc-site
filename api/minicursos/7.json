@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "nome": "Minicurso:  Desenvolvimento Web com React",
+  "descricao": "Crie interfaces web interativas e responsivas utilizando a biblioteca JavaScript React.",
+  "data": "2023-10-30",
+  "hora": "14:00",
+  "local": "Sala 205",
+  "instrutor_id": 32,
+  "tema": "Desenvolvimento Web",
+  "nivel": "Avan\u00e7ado",
+  "formato": "Presencial"
+}
